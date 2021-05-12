@@ -1,5 +1,10 @@
-USBDM
-=====
+USBDM STM32
+===========
+
+Personal Port of the USBDM Firmware to run on a Nucleo-144 STM32 development board (specifically the F767ZI). The code is derived from the Kinetis code the the parent repository, since that is also an ARM platform. 
+
+Original Readme below
+--------------------
 
 BDM firmware for USBDM BDMs
 
